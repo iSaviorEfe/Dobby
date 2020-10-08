@@ -1,1 +1,64 @@
+Dobby Bot all commands (d!yardım)
 
+Moderasyon:Moderasyon Komutları (d!moderasyon)
+
+d!rolver <üye> <rol>
+d!rolal <üye> <rol>
+d!kick <üye> <sebep>
+d!reklam aç/kapat Reklam engelini aktif eder.
+d!capslock-engelleme aç/kapat Capslock ile yazılan mesajları siler.
+d!slowmode <süre> Kullanıldığı kanalın yavaş modunu aktif eder.
+d!sayaç <sayı> <#kanal> Belirledğiniz kanala, sunucuya gelen ve gidenleri, sayaç şeklinde gösterir.
+d!sayaç-sıfırla Sayaçınızı sıfırlar.
+d!otorol <rol> Sunucuya katılan kişiye ayarladığınız rolü verir.
+d!ban <üye> <sebep>
+
+
+Eğlence (d!eğlence)
+
+d!slot Slot makinasını döndürür.
+d!intihar-et <nedeni>
+d!hediye-ver <üye>
+d!balıktut Rasgele balık tutarsınız.
+d!duello <üye> | Duello yaparsınız.
+d!yazan-kazanır <üye>
+d!şanslısayım Şanslı sayını gösterir.
+d!polisiara Rıza Baba gelir.
+d!kasa
+d!emojiyazı <mesaj> | Yazdığınız mesajı emojiler ile bot yazar.
+d!aşk-ölçer <üye>
+d!hangi-hayvansın Rasgele hangi hayvan olduğunu gösterir.
+d!sayı-tahmin Sayı tahmin etmeye çalışırsınız.
+d!ilginçbilgi İlginç bir bilgi gösterir.
+d!evlenme-teklifi <üye> |
+d!güzelsözler Güzel bir söz söylerim.
+d!efkar Efkarınızı % kaç olduğunu gösterir.
+
+Genel Komutları (d!genel)
+
+d!bot-bilgi Bot bilgilerine ulaşırsın.
+d!bot-öneri <öneriniz> Developera önerinizi bildirirsiniz.
+d!davet-kur Sunucu daveti oluşturur.
+d!developer Botun developerını gösterir.
+d!hesapla Örnek: 456+465
+d!yenilikler Botun yeniliklerini öğrenirsiniz.
+
+Dobby Kayıt Kullanım (d!ykayıt)
+
+d!kayit-kanal-ayarla #kanal Üyelerin Kayıt Olacağı Kanal
+
+d!log-kanal-ayarla #kanal Üyeler Kayıt Olunca Bildirim Gidecek Kanal
+
+d!isim-sistemi -uye- -yas-
+Üye İsim Sistemi Özgürce Yerleştirilen Değişkenler -uye- -yas- Yaş Seçeneği Eklemezseniz Yaş Sormayacaktır.
+
+d!kayıt-verilecek-rol-ayarla @rol Kayıt Olan Kişiye Verilecek Rol
+
+d!kayıt-alınacak-rol-ayarla @rol Kayıt Olan Kişiden Alınacak Rol
+
+d!kayıt-sistemi-kapat Kayıt Sistemini Kapatır Ve Verileri Siler
+
+d!giriş-sistemi Hoşgeldin -uye- Kayıt Olabilmek İçin d!kayıt Dobby 20
+Giriş Sistemini Özgürce Editleyebilirsiniz Değişkenler -uye- -uyetag-
+
+d!oylama <mesaj>
